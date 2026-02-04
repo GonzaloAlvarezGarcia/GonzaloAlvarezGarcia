@@ -56,3 +56,7 @@ I am a **Computer Engineer** currently specializing in **Generative AI** and **D
 I'm always open to discussing **Agentic AI**, **MLOps**, or how to turn data into intelligent actions. 
 
 [**Send me an email**](mailto:alvarezgarciagon@gmail.com) | [**Follow me on LinkedIn**](https://linkedin.com/in/gonzalo-alvarez-g)
+
+---
+
+<sub>GitHub account created to showcase selected professional projects.</sub>
